@@ -1,5 +1,4 @@
 # App Development Recruitment Task
-$~$
 ## Make a Tasks App that stores data in sqlite database
 - You can make it either in Flutter or Native Android (Use Kotlin in this case)
 - Use [sqflite](https://pub.dev/packages/sqflite) when working with Flutter and [Room](https://developer.android.com/training/data-storage/room) when working with Kotlin
@@ -10,13 +9,11 @@ $~$
     4. Any extra stuff you add
 
 
-$~$
 ## Task Requirements
 1. The app should consist of 2 different screens. One should show the normal tasks and the second one should show the completed tasks of a user.
 2. User should be able to create, update as well as delete a specific task
 3. All the notes should be stored in phone (using sqlite) so that when the user reopens the app older tasks are also visible
 
-$~$
 ## Steps to complete the task  
 
 ### Step 1: Make the basic UI
@@ -31,7 +28,6 @@ $~$
 - Taking user input for date and time and then showing a notification at that time regarding the same
 - Dark and light theme
 
-$~$
 
 ## Resources
 - [Flutter Course](https://drive.google.com/drive/folders/1ByiYFgWd1bkYOBtZEuWIX2OzYPRioFRk?usp=sharing)
