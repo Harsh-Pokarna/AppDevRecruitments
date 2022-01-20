@@ -23,7 +23,7 @@
 - You have to add sqlite support
 ### Step 3: Improvise the designs and add some animations
 - You have to further refine the app that you have made by adding some complex animations and designs. You can search for some designs on dribble or other online webistes
-##### Step 4: Here are some ideas for extra features that you can add (Optional)
+#### Step 4: Here are some ideas for extra features that you can add (Optional)
 - Swipeable guestures in the list for editing and deleting tasks
 - Taking user input for date and time and then showing a notification at that time regarding the same
 - Dark and light theme
@@ -34,3 +34,7 @@
 - [Native Android Course in Kotlin](https://drive.google.com/drive/folders/19lfX8oPjstk0KivQLOtkVnIho8JShj7o?usp=sharing)
 - [Sqflite](https://pub.dev/packages/sqflite)
 - [Room](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)
+
+## Submission Method
+1. You need to make a folder named as <your_id>_<your_full_name> where you have to upload the apks after each step is completed and then inform to any senior
+2. You need to upload your code on github and provide the link to any one of the seniors
