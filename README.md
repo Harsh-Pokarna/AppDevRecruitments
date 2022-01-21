@@ -19,7 +19,7 @@
 - Create 2 different screens as mentioned in requirements and a button to take user input
 - When the user clicks on a button to write a task, a bottom sheet should appear and then user should enter the required info i.e. user input should be taken **ONLY THROUGH BOTTOMSHEET**
 - When a user adds a new task that change should be visible in the screens
-### Step 2: Save tasks in users phone
+### Step 2: Save tasks on firebase
 - You have to add firebase support
 - You also have to try and take care of all the errors that may happen in all cases 
 ### Step 3: Improvise the designs and add some animations
